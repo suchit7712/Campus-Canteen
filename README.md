@@ -383,11 +383,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-**Kartikean Budarap**
+**Suchit Sartandel**
 
-- GitHub: [@kartikbudarap](https://github.com/kartikbudarap)
-- LinkedIn: [Kartikean Budarap](https://www.linkedin.com/in/kartikean-budarap-29722b2b1/)
-- Email: kartikbudarap@gmail.com
+- GitHub: [@suchitsartandel](https://github.com/suchit7712)
+- LinkedIn: [Suchit_Sartandel](https://www.linkedin.com/in/kartikean-budarap-29722b2b1/)
+- Email: suchitsartandel@gmail.com
 
 ---
 
@@ -404,7 +404,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For support, email kartikbudarap@gmail.com or open an issue in the repository.
+For support, email suchitsartandel.com or open an issue in the repository.
 
 ---
 
